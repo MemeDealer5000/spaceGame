@@ -1,0 +1,11 @@
+C:\Users\Семен\Desktop\GayNiggasOuttaSpace-master\obj\Debug\GayNiggasOuttaSpace.csprojAssemblyReference.cache
+C:\Users\Семен\Desktop\GayNiggasOuttaSpace-master\obj\Debug\gayshit.GayWindow.resources
+C:\Users\Семен\Desktop\GayNiggasOuttaSpace-master\obj\Debug\gayshit.Properties.Resources.resources
+C:\Users\Семен\Desktop\GayNiggasOuttaSpace-master\obj\Debug\gayshit.StartMenu.resources
+C:\Users\Семен\Desktop\GayNiggasOuttaSpace-master\obj\Debug\GayNiggasOuttaSpace.csproj.GenerateResource.cache
+C:\Users\Семен\Desktop\GayNiggasOuttaSpace-master\obj\Debug\GayNiggasOuttaSpace.csproj.CoreCompileInputs.cache
+C:\Users\Семен\Desktop\GayNiggasOuttaSpace-master\bin\Debug\gayshit.exe.config
+C:\Users\Семен\Desktop\GayNiggasOuttaSpace-master\bin\Debug\gayshit.exe
+C:\Users\Семен\Desktop\GayNiggasOuttaSpace-master\bin\Debug\gayshit.pdb
+C:\Users\Семен\Desktop\GayNiggasOuttaSpace-master\obj\Debug\gayshit.exe
+C:\Users\Семен\Desktop\GayNiggasOuttaSpace-master\obj\Debug\gayshit.pdb

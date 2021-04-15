@@ -1,0 +1,13 @@
+TTE         T
+T           T
+T           T
+TTE         T
+T   T       T
+T           T
+TTE         T
+T      T    T
+T           T
+TTE    T    T
+TT          T
+TT          T
+  P          
